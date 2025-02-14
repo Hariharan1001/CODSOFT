@@ -2,7 +2,7 @@
   margin:0;
   padding:0;
   box-sizing:border-box;
-  background-color:#ecf0f3;
+  background-color:rgb(32, 30, 30);
   font-family: sans-serif;
   outline:none;
 }
@@ -13,7 +13,7 @@
   align-items:center
 }
 .calculator{
-  background-color:#c3daee;
+  background-color:#ecf0f3;
   padding:15px;
   border-radius:30px;
   box-shadow: inset 5px 5px 12px #ffffff,
